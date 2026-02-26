@@ -1,0 +1,2 @@
+   https://maximzhurkin.github.io/jquery-scrolla/ -> scrolla 참고 링크 
+   https://splitting.js.org/guide.html#basic-usage.  -> Splitting 참고링크
