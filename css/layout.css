@@ -187,7 +187,7 @@
 #container .sec-8 .list li .text{flex:0 0 auto;width:290px;display:flex;flex-direction:column;align-items:flex-start;}
 #container .sec-8 .list li .text .name{line-height:140%;font-size:28px;font-weight:600;color:#fff;font-family:'Roboto', sans-serif;}
 #container .sec-8 .list li .text .part{line-height:140%;font-size:18px;font-weight:600;color:#387bff;font-family:'Roboto', sans-serif;margin:12px 0 0 0;display:flex;align-items:center;justify-content:center;padding:0 15px;height:35px;border-radius:35px;border:1px solid #387bff;}
-#container .sec-8 .list li .text .stake{margin:35px 0 0 0;width: 100%;}
+#container .sec-8 .list li .text .stake{margin:35px 0 0 0;width: 80%;}
 #container .sec-8 .list li .text .stake dl{display:flex;margin:0 0 2px;gap:12px;align-items:center;}
 #container .sec-8 .list li .text .stake dt{flex:0 0 auto;width:66px;font-size:18px;font-weight:600;color:#fff;}
 #container .sec-8 .list li .text .stake dd{flex:1;display:flex;gap:12px;align-items: center;}
